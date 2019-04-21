@@ -1,0 +1,2 @@
+# Postscript-Interpreter
+This is my Postscript interpreter made using python3. The program is supposed to interpret a Postscript-like language, and then compute and carry out any actions needed. All operations are handled through a simple text interpreter algorithm that parses up the postscript text into a operation stack, and a dictionary stack. The program supports both static and dynamic scoping which will determine the order of the call stack.It can support variables, and functions (including functions code blocks).  
